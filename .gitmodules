@@ -1,0 +1,6 @@
+[submodule "external/quirc"]
+	path = external/quirc
+	url = https://github.com/dlbeer/quirc/
+[submodule "tuske"]
+	path = tuske
+	url = https://github.com/tuskeNetwork/tuske.git
