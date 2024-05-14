@@ -32,7 +32,7 @@ See [LICENSE](LICENSE).
 1. Install Docker [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 2. Clone the repository
    ```
-   git clone --branch master --recursive https://github.com/tuskenetwork/tuske-gui.git
+   git clone --recursive https://github.com/tuskenetwork/tuske-gui.git
    ```
 
 3. Prepare build environment
@@ -55,7 +55,7 @@ See [LICENSE](LICENSE).
 1. Install Docker [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 2. Clone the repository
    ```
-   git clone --branch master --recursive https://github.com/tuskenetwork/tuske-gui.git
+   git clone  --recursive https://github.com/tuskenetwork/tuske-gui.git
    ```
 
 3. Prepare build environment
