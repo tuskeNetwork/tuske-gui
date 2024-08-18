@@ -96,7 +96,7 @@ QString xdgMime(){
         "X-GNOME-FullName=Tuske-GUI\n"
         "Comment=Tuske GUI\n"
         "Keywords=Tuske;\n"
-        "Exec=%1 %u\n"
+        "Exec=\"%1\" %u\n"
         "Terminal=false\n"
         "Type=Application\n"
         "Icon=monero\n"
